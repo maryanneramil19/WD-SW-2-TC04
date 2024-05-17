@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*Dev (dinedelete)*/
+header,
+header * {
+    outline: .2px dashed rgba(137, 43, 226, 0.863);
+
+}
+
+section.hero,
+section.hero * {
+    outline: 1px dashed red;
+}
+/*Dep (hindi dinedelete)*/
+header {
+    width: 100%;
+    position: fixed;
+    background-color: rgba(255, 255, 255, 0.842);
+    z-index: 20%;
+
+}
+header nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 18px;
+}
+
+header button {
+    border: none;
+    background: none;
+    font-size: small;
+    font-weight: 600;
+    color: rgb(82, 82, 82);
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+
+    & :hover {
+        color: rgb(12, 12, 12);
+    }
+}
+
+section.hero {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    position: relative;
+    justify-content: center;
+
+    & img {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        object-fit: cover;
+        height: 100vh;
+        opacity: 100%;
+        z-index: -1;
+    }
+
+    & .content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+       /* background: rgba(255, 255, 255, 0.712);*/
+        padding: 1.5rem;
+        margin: 1rem;
+        gap: 14px;
+    }
+
+    & h3 {
+        font-size: 1.5rem;
+    }
+
+    & h2 {
+        font-size: 3rem;
+    }
+
+    & p {
+        font-size: 1rem;
+        text-align: center;
+    }
+
+    & button {
+        padding: 8px 16px;
+        border-radius: 5px;
+        border: none;
+        cursor: pointer;
+        transition: 0.3s ease-out;
+
+       & :hover {
+        transform: scale(110%) translateY(-4px);
+        box-shadow: rgba(0, 0, 0, 0.2) 0px 15px 10px -7px;
+    } 
+    }
+
+}

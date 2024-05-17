@@ -4,23 +4,13 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
-  </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
-</div>
-<!-- TODO: Make a short description -->
-<div align="center">
-  Short Description. (Optional)
-</div>
+ <a href="https://app.daily.dev/maryanneramil"><img src="https://api.daily.dev/devcards/v2/sd6sPcxxQfMl3mtXjnEjM.png?type=wide&r=fbh" width="652" alt="Mary Anne Ramil's Dev Card"/></a>
 
+  <h3 align="center">Formulating Webpage</h3>
+</div>
 <br />
 
-<!-- TODO: Change the zyx-0314 into your github username  -->
-<!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=maryanneramil19/WD--SEATWORK-2-TC04)
 
 ---
 
@@ -79,11 +69,10 @@ Guiding Question:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules and Principles
-1. Always use ***WD-*** in the front of the Title of the Project for the Subject followed by your custom naming.
+1. Always use **WD-** in the front of the Title of the Project for the Subject followed by your custom naming.
 2. Do not rename any .html files; always use 'index.html' as the filename.
 3. File Structure to follow
 
-```
 WD-ProjectName
 └─ assets
 |   └─ css
@@ -104,11 +93,10 @@ WD-ProjectName
 |     └─ index.html
 └─ index.html
 └─ readme.md
-```
 
 ## Resources
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Daily Dev Card | Creation Of dev card profile | https://app.daily.dev/devcard |
