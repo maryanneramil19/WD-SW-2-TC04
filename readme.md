@@ -10,7 +10,7 @@
 </div>
 <br />
 
-![](https://visit-counter.vercel.app/counter.png?page=maryanneramil19/WD--SEATWORK-2-TC04)
+![](https://visit-counter.vercel.app/counter.png?page=maryanneramil19/WD-SW-2-TC04)
 
 ---
 
@@ -69,10 +69,11 @@ Guiding Question:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules and Principles
-1. Always use **WD-** in the front of the Title of the Project for the Subject followed by your custom naming.
+1. Always use ***WD-*** in the front of the Title of the Project for the Subject followed by your custom naming.
 2. Do not rename any .html files; always use 'index.html' as the filename.
 3. File Structure to follow
 
+```
 WD-ProjectName
 └─ assets
 |   └─ css
@@ -93,6 +94,7 @@ WD-ProjectName
 |     └─ index.html
 └─ index.html
 └─ readme.md
+```
 
 ## Resources
 
