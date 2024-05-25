@@ -10,7 +10,7 @@
 </div>
 <br />
 
-![](https://visit-counter.vercel.app/counter.png?page=maryanneramil19/WD-SW-2-TC04)
+![](https://visit-counter.vercel.app/counter.png?page=maryanneramil19/WD--SEATWORK-2-TC04)
 
 ---
 
@@ -48,12 +48,8 @@
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
 Description of the project in details.
+ Creating a Resume website using HTML and CSS
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -69,11 +65,10 @@ Guiding Question:
 
 
 ## Rules and Principles
-1. Always use ***WD-*** in the front of the Title of the Project for the Subject followed by your custom naming.
+1. Always use **WD-** in the front of the Title of the Project for the Subject followed by your custom naming.
 2. Do not rename any .html files; always use 'index.html' as the filename.
 3. File Structure to follow
 
-```
 WD-ProjectName
 └─ assets
 |   └─ css
@@ -94,7 +89,6 @@ WD-ProjectName
 |     └─ index.html
 └─ index.html
 └─ readme.md
-```
 
 ## Resources
 
@@ -102,4 +96,4 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Daily Dev Card | Creation Of dev card profile | https://app.daily.dev/devcard |
-
+|  onlinetutorials youtube |  Source code |  https://www.youtube.com/watch?v=hnjHCmaUVPg
