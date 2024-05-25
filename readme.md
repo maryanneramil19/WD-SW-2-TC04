@@ -45,9 +45,7 @@
 
 ## Overview
 
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-Description of the project in details.
+
  Creating a Resume website using HTML and CSS
 
 
