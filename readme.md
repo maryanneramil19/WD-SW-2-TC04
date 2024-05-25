@@ -94,4 +94,5 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Daily Dev Card | Creation Of dev card profile | https://app.daily.dev/devcard |
-|  onlinetutorials youtube |  Source code |  https://www.youtube.com/watch?v=hnjHCmaUVPg
+|  onlinetutorials youtube |  Source code |  https://www.youtube.com/watch?v=hnjHCmaUVPg |
+| Font Awesome Icons  | Where my icons are found  | https://fontawesome.com/v4/icons/ |
